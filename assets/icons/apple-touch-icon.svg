@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60"
-   height="60"
-   viewBox="0 0 60.000001 60.000001"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="16pine.svg">
+   sodipodi:docname="apple-touch-icon.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.008673"
-     inkscape:cx="30"
-     inkscape:cy="24.896793"
+     inkscape:zoom="3.8125"
+     inkscape:cx="33.704918"
+     inkscape:cy="71.999977"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,26 +53,26 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-992.36216)">
+     transform="translate(0,-932.36216)">
     <rect
        style="fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1.49943447;stroke-linejoin:miter;stroke-opacity:1"
        id="rect4149"
-       width="60"
-       height="60"
+       width="120"
+       height="120"
        x="0"
-       y="992.36218" />
+       y="932.36218" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1.3556463"
-       y="1038.7258"
+       style="font-style:normal;font-weight:normal;font-size:76.84886932px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4.9678454"
+       y="1023.8004"
        id="text4136"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138"
-         x="1.3556463"
-         y="1038.7258"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono Bold Italic';fill:#008080">16</tspan></text>
+         x="4.9678454"
+         y="1023.8004"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.45497894px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono Bold Italic';fill:#008080">16</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
